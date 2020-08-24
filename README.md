@@ -1,6 +1,7 @@
 # TIL / ML-DL
 Machine Learning and Deep Learning
 <br>
+
 > 머신러닝을 구현 가능한 프로그래밍 언어 (Python or R 실습)  
 > 기초 수학 과목: 미적분학, 선형대수학, 확률 및 통계학
 
@@ -16,3 +17,50 @@ Machine Learning and Deep Learning
 ## Chapter6. Convolutional Neural Networks
 ## Chapter7. Recurrent Neural Networks
 ## Chapter8. Autoencoders and Generative Models
+
+
+
+
+
+
+
+## PJT -  Heart Failure Prediction using ML/DL and NN
+
+This project will focus on predicting Heart Failure(disease) using ML/DL and NN
+
+the reason  why i focus on heart disease is it has the highest rank of domestic death rates except `Tumor Neoplasia`  such like cancer, choronicle disease.
+
+- this project is utilize a dataset of 303 patients (in kaggle dataset - `출처남길것`)
+
+- i'll be using some common Python libraries, such as `pandas`, `numpy`, and `matplotlib`.
+
+  for the machine learning side of this project, i'll be using
+
+  - NN , ML, DL-  `sklearn`, `keras`
+
+
+
+### Steps
+
+- Import data and modules
+- Train/Test-split in scikit-learn
+- Normalization
+- Adding Dropout
+- Adding Weight Regularization
+
+
+
+### Result
+
+
+
+---
+
+### Process
+
+1. Importing the Dataset
+2. Create Training and Testing Dataset
+
+3. Building and Training the Neural Networks
+4. Improving Results - A Binary Classification Problem
+5. Results and Metrics
