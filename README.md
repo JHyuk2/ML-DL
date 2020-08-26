@@ -51,8 +51,8 @@ This project will focus on predicting Heart Failure(disease) using ML/DL and NN
 
 the reason  why i focus on heart disease is it has the highest rank of domestic death rates except `Tumor Neoplasia`  such like cancer, choronicle disease.
 
-- this project is utilize a dataset of 303 patients (in kaggle dataset - `출처남길것`)
-
+- this project is utilize a dataset of 303 patients
+- Kaggle Dataset:  Heart Disease UCI(https://www.kaggle.com/ronitf/heart-disease-uci)
 - i'll be using some common Python libraries, such as `pandas`, `numpy`, and `matplotlib`.
 
   - for the machine learning side of this project, i'll be using	
@@ -80,7 +80,7 @@ the reason  why i focus on heart disease is it has the highest rank of domestic 
 
 ### Process
 
-1. **Importing the Dataset**
+1. #### **Importing the Dataset**
 
    1) import modules
 
@@ -89,7 +89,7 @@ the reason  why i focus on heart disease is it has the highest rank of domestic 
    import numpy as np
    import pandas as pd
    import warnings # suppress matplotlib warning
-   warnings.filterwarning('ignore') 
+   warnings.filterwarnings('ignore') 
    
    # Visualization & plotting
    from sklearn.metrics import plot_precision_recall_curve
@@ -103,7 +103,7 @@ the reason  why i focus on heart disease is it has the highest rank of domestic 
    from sklearn.svm import SVC
    from sklearn.tree import DecisionTreeClassifier
    from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
-   from sklearn.neighboros import NearestNegibors # Knn
+   from sklearn.neighbors import NearestNeighbors # Knn
    
    # for building and training Neural Networks
    from keras.models import Sequential
@@ -115,7 +115,7 @@ the reason  why i focus on heart disease is it has the highest rank of domestic 
    # for evaluation
    from sklearn.metrics import precision_recall_curve
    from sklearn.metrics import accuracy_score, f1_score
-   from skelarn.metrics import confusion_matrix, roc_curve, auc
+   from sklearn.metrics import confusion_matrix, roc_curve, auc
    ```
 
    
@@ -179,14 +179,14 @@ the reason  why i focus on heart disease is it has the highest rank of domestic 
 
    
 
-2. Create Training and Testing Dataset
+2. #### Create Training and Testing Dataset
 
    1) target == y; (1:having heart disease)
 
    ```python
    # `y` is result, `x` is factors of y (in views of logistic function)
-   Y = df.target.values
-   X_data = df.drop(['target'], axis=1)
+   Y = data.target.values
+   X_data = data.drop(['target'], axis=1)
    ```
 
    
@@ -213,23 +213,53 @@ the reason  why i focus on heart disease is it has the highest rank of domestic 
 
      > Trees are only splitting node based on a single feature.  So there is **virturally no effect**
 
-     
+   
+
+   ##### So, Normalize of Standardize?
+
+   is your data distribution does follow a Gaussian distribution?
+
+   - **T -  Standardization;** the outliers in data will not be affect
+   - **F - Normalization;** can be useful in KNN, Neural Networks (don't assume any distribution of data)
+
+   
+
+   normality test - Is our dataset follows  Gaussian distribution?
+
+   > Q-Q plot (Quantile Quantile plot)
+   >
+   > Central limit theorem
 
    ```python
-   # MINMAX-Normalization(Scale a variable to have a values between 0 and 1)
-   X_changed = (X_data - np.min(X_data)) / (np.max(X_data) - np.min(X_data))
-   
-   # Standardization(Transforms data to have a mean of zero and std of 1)
-   x_mean = X_data.mean(axis=0)
-   X = X_data - x_mean
-   
+   # 여러 방면으로 찾아보았지만 qq-plot에 대한 이해가 부족하여 적용하지 못하였습니다.
+   # 때문에 KNN / Neural Networks에서의 사용 => Normalization
+   # 그 외 모델의 사용 => Standardization을 적용하였습니다.
    ```
 
    
 
+   MINMAX -Normarlization & Standardization
+
    ```python
-   # train_test data split
-   x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state = 0)
+   # 2) minMAX-Normalization & Standardization
+   
+   # minMAX-Normalization(Scale a variable to have a values between 0 and 1)
+   X_norm = (X_data - np.min(X_data)) / (np.max(X_data) - np.min(X_data))
+   
+   # Standardization(Transforms data to have a mean of zero and std of 1)
+   x_mean = X_data.mean(axis=0)
+   X_std = X_data - x_mean
+   std = X_data.std(axis=0)
+   X_std /= std
+   ```
+
+   
+
+   3) train_test split
+
+   ```python
+   # train_test data split | train: 0.7; test: 0.3;
+   X_train, X_test, Y_train, Y_test = train_test_split(X_data, Y, test_size=0.3, random_state = 0)
    ```
 
    
