@@ -215,7 +215,7 @@ the reason  why i focus on heart disease is it has the highest rank of domestic 
 
    
 
-   ##### So, Normalize of Standardize?
+   ##### So, Normalize or Standardize?
 
    is your data distribution does follow a Gaussian distribution?
 
@@ -258,11 +258,31 @@ the reason  why i focus on heart disease is it has the highest rank of domestic 
    3) train_test split
 
    ```python
-   # train_test data split | train: 0.7; test: 0.3;
-   X_train, X_test, Y_train, Y_test = train_test_split(X_data, Y, test_size=0.3, random_state = 0)
+   # train_test data split | train: 0.8; test: 0.2;
+   X_train, X_test, Y_train, Y_test = train_test_split(X_data, Y, test_size=0.2, random_state = 0)
    ```
 
    
+
+   4) make normalized - standardized X, Y
+
+   ```python
+   # first : use normalized data | second: use stdardized data
+   
+   X_train, X_test, Y_train, Y_test = train_test_split(X_norm, Y, test_size=0.2, random_state = 0)
+   X_train2, X_test2, Y_train2, Y_test2 = train_test_split(X_std, Y, test_size=0.2, random_state = 0)
+   
+   from keras.utils.np_utils import to_categorical
+   Y_train_category = to_categorical(Y_train, num_classes=None)
+   Y_test_category = to_categorical(Y_test, num_classes=None)
+   
+   print(Y_train.shape, Y_test.shape)
+   print(Y_train_category.shape, Y_test_category.shape)
+   ```
+
+   
+
+    
 
 3. Building and Training the Neural Networks
 
