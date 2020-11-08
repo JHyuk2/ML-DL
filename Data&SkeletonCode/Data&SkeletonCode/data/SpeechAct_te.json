@@ -1,0 +1,4412 @@
+{
+	"261": [
+				[
+			"user",
+			"아름아 그동안 잘 있었어?",
+			"opening"
+		],
+		[
+			"system",
+			"네. 언니도 잘 있었어요?",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 부엌으로 어서 좀 와봐.",
+			"request"
+		],
+		[
+			"system",
+			"네, 부르셨어요?",
+			"inform"
+		],
+		[
+			"user",
+			"내일 우리 아버지랑 어 저녁식사를 같이 하고 싶은데 어떻게 해야되지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"무엇을 알려드릴까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"음 우리 아버지 일정이 어떻게 되는지 좀 알려줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네. 언제로 검색할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"음 내일 일정이 있으실지, 없으실지 좀 알아봐줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네. 잠시만요. 내일 아버지 다른 일정이 있으세요.",
+			"inform"
+		],
+		[
+			"user",
+			"다음주로 식사 모임을 옮겨줘.",
+			"request"
+		],
+		[
+			"system",
+			"알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"내일 일정 좀 알아봐줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"잠시만요. 내일 예배가 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"예배 시간이 어떻게 되니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"예배 시간은 저녁 7시, 저녁 9시에 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"누구랑 같이 가기로 했는지 좀 알아봐줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네. 옆집 영희와 가기로 하셨어요.",
+			"inform"
+		],
+		[
+			"user",
+			"그러면 내일 저녁 6시 30분 예배시간에 맞춰서 알람을 좀 설정해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"설정했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 너무 잘했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"감사합니다.",
+			"expressive"
+		]
+	],
+	"262": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 이리 좀 와봐.",
+			"request"
+		],
+		[
+			"system",
+			"네, 부르셨어요?",
+			"inform"
+		],
+		[
+			"user",
+			"우리 아버지 이번 주 주말 일정이 어떻게 되는지 알려줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네. 잠시만요. 토요일 저녁 회사원들과 만나는 약속이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"약속 시간이 어떻게 되지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"저녁 4시에요.",
+			"inform"
+		],
+		[
+			"user",
+			"우리 아버지가 지난주 목요일에 무엇을 하 하셨니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"다시 말씀해주세요.",
+			"request"
+		],
+		[
+			"user",
+			"아버지가 지난주 목요일에 어떤 일을 했는지 알고싶어.",
+			"inform"
+		],
+		[
+			"system",
+			"네. 잠시만요. 확인중입니다. 지난주 목요일 운동을 다녀오셨어요.",
+			"inform"
+		],
+		[
+			"user",
+			"지영이가 소풍을 언제 가지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"다음주 수요일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"어디로 소풍을 가니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네. 용인 에버랜드에요.",
+			"inform"
+		],
+		[
+			"user",
+			"몇 시에 출발해?",
+			"wh-question"
+		],
+		[
+			"system",
+			"출발 시간 오전 9시입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"준비물이 무엇 무엇이 필요한지 좀 알아봐줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네. 모자, 점심, 손수건이 필요합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"또 불러주세요.",
+			"expressive"
+		]
+	],
+	"263": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요?",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 병원에 입원했던 날이 언제지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"지난 5월 1일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"며칠동안 입원해 있었는지 알아?",
+			"wh-question"
+		],
+		[
+			"system",
+			"4일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"입원한 날짜가 언제지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"5월 1일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"아빠 이번 달 출장일이 언젠지 가르쳐줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"출장일은 8월 2일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"출장 기간이 며칠인지 알아?",
+			"wh-question"
+		],
+		[
+			"system",
+			"총 2일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"어디로 출장갔는지도 알아?",
+			"wh-question"
+		],
+		[
+			"system",
+			"출장 장소는 대전입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일의 일정이 뭐지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"내일은 아무런 일정이 없어요.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 회사에 워크샵이 있는 날을 일정에 입력해줘.",
+			"request"
+		],
+		[
+			"system",
+			"입력합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"제대로 입력됐는지 확인해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"확인합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아침 8시루 알람을 설정해줘.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		]
+	],
+	"264": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 일정들고 해줘라.",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"이번 주 주말이야.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"교보문고.",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"친척모임이야.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"영화관람약속이 있어.",
+			"inform"
+		],
+		[
+			"system",
+			"요일을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"목요일이야.",
+			"inform"
+		],
+		[
+			"system",
+			"시간을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오후 3시.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침 7시에 깨워줄래?",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했다.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"265": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 일정 좀 등록해줘.",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"음 다음달 초로 등록해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"진미식당이라고 해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"친척모임이야.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"영화보기로 했거든.",
+			"inform"
+		],
+		[
+			"system",
+			"약속 요일을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"화요일이야.",
+			"inform"
+		],
+		[
+			"system",
+			"시간을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오후 1시로 등록해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침 7시에 깨워줄래?",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"266": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"opening"
+		],
+		[
+			"user",
+			"일정 등록 좀 해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"점심 일정.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"이마트.",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 가족 모임이야.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"가족 외식.",
+			"inform"
+		],
+		[
+			"system",
+			"약속 요일을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"금요일이야.",
+			"inform"
+		],
+		[
+			"system",
+			"시간을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오후 4시야.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침 9시에 깨워줘.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"267": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 일정 등록 좀 해주겠니?",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"음 오늘 오후야.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"종로 서점이야.",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"친척 모임이고.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"선물을 살 거거든.",
+			"inform"
+		],
+		[
+			"system",
+			"약속 요일을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"요일은 목요일이고.",
+			"inform"
+		],
+		[
+			"system",
+			"시간을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"시간은 오후 3시야.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침에 7시에 깨워줘.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름이 수고했어요.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"268": [
+		[
+			"user",
+			"아름아 좋은 아침이야.",
+			"opening"
+		],
+		[
+			"system",
+			"네. 좋은 아침이에요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 거실로 와줄래?",
+			"request"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 결혼 기념일이 며칠이야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"결혼 기념일은 7월 27일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 결혼 기념일이 몇 요일이니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"잠시만요. 그날은 화요일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 그날 아빠 퇴근시간 좀 알아봐줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"아빠의 퇴근시간은 6시에요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 그때 식사할 곳 좀 찾아줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"삼성동에 '딥블루'가 좋습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 그 식당으로 결정할게.",
+			"request"
+		],
+		[
+			"system",
+			"네. 그러세요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 아빠와 저녁식사 시간을 7시로 정해줘.",
+			"request"
+		],
+		[
+			"system",
+			"7시로 정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 그때 식사일정 좀 입력해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네. 일정을 입력합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"269": [
+		[
+			"user",
+			"아름아 오랜만이야.",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름이 거실로 와줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네. 부르셨어요?",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 지금 바빠?",
+			"opening"
+		],
+		[
+			"system",
+			"바쁘지 않아요.",
+			"opening"
+		],
+		[
+			"user",
+			"엄마 생일이 언제니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"엄마의 생일은 8월 3일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그날 다른 스케줄이 있어?",
+			"yn-question"
+		],
+		[
+			"system",
+			"오후에 골프 약속이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"오후에 있는 일정을 취소시켜줄래?",
+			"request"
+		],
+		[
+			"system",
+			"일정을 취소합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"오후에 엄마 생일 선물 사러가는 날이라고 입력해줘.",
+			"request"
+		],
+		[
+			"system",
+			"입력합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"오후 1시로 알람을 설정해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"일정을 다시 1번 확인해줘.",
+			"request"
+		],
+		[
+			"system",
+			"확인되었어요.",
+			"inform"
+		],
+		[
+			"user",
+			"매일 아침 8시에 깨워줘.",
+			"request"
+		],
+		[
+			"system",
+			"알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"아름아 잘 자.",
+			"expressive"
+		],
+		[
+			"system",
+			"안녕히 주무세요.",
+			"expressive"
+		]
+	],
+	"270": [
+		[
+			"user",
+			"아름아 잘 잤니?",
+			"opening"
+		],
+		[
+			"system",
+			"잘 잤습니다.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 오늘 일정 좀 확인해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"어떤 일정을 확인할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"이번 달 일정 좀 알려줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 확인합니다. 오전과 오후 약속이 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"어 오늘 오후에 약속이 있는데 약속장소 좀 알려줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 이마트에서 약속이 있으세요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 누구와 약속했는지 잊어버렸어.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 친구 영희와의 약속이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"그런데 어쩌니, 약속 장소가 약속 일자가 변경되었는데.",
+			"inform"
+		],
+		[
+			"system",
+			"다시 말씀해주세요.",
+			"request"
+		],
+		[
+			"user",
+			"약속 일정이 변경되었어, 어떡하지?",
+			"inform"
+		],
+		[
+			"system",
+			"네, 어떤 내용이 변경되었나요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"날짜가 바뀌었어.",
+			"inform"
+		],
+		[
+			"system",
+			"바뀐 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 5월 15일로 변경되었어.",
+			"inform"
+		],
+		[
+			"system",
+			"시간도 변경되었나요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"아니, 시간은 그냥 그대로야.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 약속 장소는 변경되었나요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"약속 장소는 똑같은 곳이야.",
+			"inform"
+		],
+		[
+			"system",
+			"알겠습니다. 일정을 변경합니다.",
+			"affirm"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"또 불러주세요.",
+			"expressive"
+		]
+	],
+	"271": [
+		[
+			"user",
+			"아름아 안녕. 아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"네, 엄마. 안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"오전 일은 다 했니? 혹시 안 한 일이 있니?",
+			"yn-question"
+		],
+		[
+			"system",
+			"오전에 엄마가 무슨 일을 하셨나요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"오전에 빨래와 청소를 끝냈어.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 잠시만 기다려주세요. 엄마의 오전 일과는 다 끝내셨어요.",
+			"inform"
+		],
+		[
+			"user",
+			"오후의 일정은 무엇이 있니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, '우철이 유치원 마중가기'와 '고모네 집 방문'이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"1번 더 말해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, '우철이 유치원 마중가기'와 '고모네 집 방문'이 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"다음주 토요일 일정을 말할게.",
+			"request"
+		],
+		[
+			"system",
+			"네, 입력을 준비합니다. 내용을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"다음주 토요일에 고등학교 동창회가 있어.",
+			"inform"
+		],
+		[
+			"system",
+			"입력할까요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"음.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"입력을 1번 확인해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, '다음주 토요일에 고등학교 동창회가 있음'이 입력되었습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"고마워, 아름아. 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"네, 엄마.",
+			"expressive"
+		]
+	],
+	"272": [
+		[
+			"user",
+			"아름아 잘 있었어?",
+			"opening"
+		],
+		[
+			"system",
+			"네, 안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"오늘 아무 일 없었어?",
+			"opening"
+		],
+		[
+			"system",
+			"네, 별일 없었어요.",
+			"opening"
+		],
+		[
+			"user",
+			"내일 시간표 중에 체육이 있어?",
+			"yn-question"
+		],
+		[
+			"system",
+			"네, 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아 체육이 있구나. 체육복을 챙겨야겠다.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 꼭 준비하세요.",
+			"affirm"
+		],
+		[
+			"user",
+			"그럼 내일 과학은 들었어?",
+			"yn-question"
+		],
+		[
+			"system",
+			"네, 과학 수업이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아 과학도 들었구나. 따로 챙겨가야 할 준비물은 있니?",
+			"yn-question"
+		],
+		[
+			"system",
+			"과학 수업에 필요한 준비물은 없어요. 내일은 학교에 다녀와서 피아노 학원에 가야해요.",
+			"inform"
+		],
+		[
+			"user",
+			"아 내일 숙제가 있구나. 수학 숙제를 해야겠다.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 꼭 챙겨가세요. 내일은 운동화도 꼭 챙겨가세요.",
+			"affirm"
+		],
+		[
+			"user",
+			"운동화? 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"273": [
+		[
+			"user",
+			"아름아 잘 지냈어?",
+			"opening"
+		],
+		[
+			"system",
+			"네, 안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"휴일 오후에 특별히 할 일 있어?",
+			"wh-question"
+		],
+		[
+			"system",
+			"특별한 일정은 없어요.",
+			"inform"
+		],
+		[
+			"user",
+			"이메일을 확인하려고 하는데, 접속해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 접속합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"새로운 메일이 있는지 확인해줘라.",
+			"request"
+		],
+		[
+			"system",
+			"네, 새로운 메일이 10통 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"그 10통 중에서 스팸메일을 지워줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 스팸메일을 삭제합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그러면 남은 메일이 몇 개야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 3개 남아있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"그 메일들을 보낸 사람들이 누구지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"친구 '은희', '김팀장님', '현대백화점'이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"은희에게서 온 메일은 임시 보관함에 넣어줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"지운 편지함을 비워줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 비웠습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"274": [
+		[
+			"user",
+			"아름아 안녕.",
+			"opening"
+		],
+		[
+			"system",
+			"네, 안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"이번 주 일요일날 스케줄이 있어?",
+			"yn-question"
+		],
+		[
+			"system",
+			"아니오, 일정이 비어있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"그럼 일요일에 추도예배 간다고 등록해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 일정을 등록합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그리고 새벽 5시로 알람 맞춰줘라.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아빠 등산 약속이 언제지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"내일 3시에요.",
+			"inform"
+		],
+		[
+			"user",
+			"그래? 그럼 그거 취소해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"일정을 취소합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그 등산 약속을 다음주 일요일로 변경해줘라.",
+			"request"
+		],
+		[
+			"system",
+			"네, 일요일로 변경했어요.",
+			"inform"
+		],
+		[
+			"user",
+			"그리고 이번 주 일요일 알람을 오전 8시로 맞춰줄래?",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"오늘의 일정이 어떻게 되지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"오전 11시 '친구와의 점심', 2시는 '회의', 7시에 '가족식사 모임'이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그래? 오늘 너무 바쁘겠다.",
+			"expressive"
+		],
+		[
+			"system",
+			"네, 바쁘시겠어요.",
+			"affirm"
+		],
+		[
+			"user",
+			"음 아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"275": [
+		[
+			"user",
+			"아름아 잘 잤어?",
+			"opening"
+		],
+		[
+			"system",
+			"네, 잘 잤어요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 오늘 일정 어떻게 되지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"검색합니다. 언제의 일정을 알려드릴까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"이번 달 일정 알려줄래?",
+			"inform"
+		],
+		[
+			"system",
+			"네, 오전과 오후에 약속이 있으세요.",
+			"inform"
+		],
+		[
+			"user",
+			"오전 약속이 뭐였더라?",
+			"wh-question"
+		],
+		[
+			"system",
+			"친구네 집에서 약속이 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 누구랑 약속했지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 고등학교 동창분과의 약속입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"오늘 일정이 변경되었어.",
+			"inform"
+		],
+		[
+			"system",
+			"어떻게 변경되었나요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"약속 날짜가 바꼈어.",
+			"inform"
+		],
+		[
+			"system",
+			"바뀐 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"7월 8일로 바꼈는데.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 시간도 변경되었나요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"아니, 시간은 변경 안되었어.",
+			"inform"
+		],
+		[
+			"system",
+			"약속장소는요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"현대백화점에서 만나기로 했어.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 일정을 변경합니다.",
+			"affirm"
+		],
+		[
+			"user",
+			"아름아 땡큐.",
+			"expressive"
+		],
+		[
+			"system",
+			"또 불러주세요.",
+			"expressive"
+		]
+	],
+	"276": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"opening"
+		],
+		[
+			"user",
+			"일정 등록 좀 해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"내일 오후.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"교보문고야.",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"대학동기 승현이와 약속이야.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"공연관람 약속이야.",
+			"inform"
+		],
+		[
+			"system",
+			"약속 요일을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"목요일이야.",
+			"inform"
+		],
+		[
+			"system",
+			"시간을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오후 3시야.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침 11시에 깨워줄래?",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름이 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"277": [
+		[
+			"user",
+			"아 아름아 안녕.",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 일정확인 좀 해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"언제 일정을 확인할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"어제 일정 좀 알려줘라.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 어제는 백화점에 다녀오셨어요.",
+			"inform"
+		],
+		[
+			"user",
+			"오늘 약속장소가 어디야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"약속장소는 이마트입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 누구랑 약속했지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"엄마와의 약속이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"약속이 변경되었다는데.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 내용이 변경되었나요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"약속날짜가 바꼈대.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 바뀐 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"3월 9일로 변경됐대.",
+			"inform"
+		],
+		[
+			"system",
+			"시간도 변경되었나요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"아니, 시간은 똑같은 시간이래.",
+			"inform"
+		],
+		[
+			"system",
+			"약속장소는 어디세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"장소는 골프장이구.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 변경했습니다.",
+			"affirm"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"또 불러주세요.",
+			"expressive"
+		]
+	],
+	"278": [
+		[
+			"user",
+			"아름아 안녕.",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 주말 스케줄 좀 확인해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"확인중입니다. 주말에 쇼핑 계획이 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"어 2시간 앞으로 스케줄 시간 좀 변경해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 시간을 변경합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"나 이번에 새로 학원을 등록했는데, 수업 요일 좀 알려줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"잠시만 기다려주세요. 월요일, 수요일, 금요일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"월요일날 학원 시간은 언제야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 저녁 5시- 7시까지에요.",
+			"inform"
+		],
+		[
+			"user",
+			"과학시간은 있어, 월요일에?",
+			"yn-question"
+		],
+		[
+			"system",
+			"잠시만요. 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"나 학교에 해가야할 숙제가 있어?",
+			"yn-question"
+		],
+		[
+			"system",
+			"네, 영어 숙제가 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"나 다 했어?",
+			"yn-question"
+		],
+		[
+			"system",
+			"네, 다 되었습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 학교 가져갈 준비물 있어?",
+			"yn-question"
+		],
+		[
+			"system",
+			"내일은 준비물이 없습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"279": [
+		[
+			"user",
+			"아름아 반갑다.",
+			"opening"
+		],
+		[
+			"system",
+			"네, 반가워요.",
+			"opening"
+		],
+		[
+			"user",
+			"거실로 좀 와주겠어?",
+			"request"
+		],
+		[
+			"system",
+			"네, 부르셨어요?",
+			"inform"
+		],
+		[
+			"user",
+			"이번 달에 친구들과 친목계를 하기로 했거든.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 그러세요.",
+			"affirm"
+		],
+		[
+			"user",
+			"이번 달 말일에 스케줄이 없는 날 좀 확인해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"말일 언제로 검색할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"마지막주로 찾아주면 고맙겠어.",
+			"inform"
+		],
+		[
+			"system",
+			"금요일 저녁입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"일정이 빈 날에 스케줄을 좀 입력해.",
+			"request"
+		],
+		[
+			"system",
+			"입력합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"친목계의 일정을 입력시켜라.",
+			"request"
+		],
+		[
+			"system",
+			"입력합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일은 어떤 일정이 있는지 찾아봐줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"내일은 우철이와 쇼핑하기로 돼있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 일정에 맞춰서 7시로 알람을 설정해주면 고맙겠다.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"입력된 일정을 좀 확인해봐라.",
+			"request"
+		],
+		[
+			"system",
+			"확인되었어요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 고맙다.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"280": [
+		[
+			"user",
+			"아름아 좋은 아침.",
+			"opening"
+		],
+		[
+			"system",
+			"좋은 아침이에요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 거실로 좀 나와봐라.",
+			"request"
+		],
+		[
+			"system",
+			"부르셨나요?",
+			"inform"
+		],
+		[
+			"user",
+			"내일 일정이 어떻게 되지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"엄마와 시장에 가기로 했어요.",
+			"inform"
+		],
+		[
+			"user",
+			"엄마랑 시장에 가기로 한 약속이 몇 시더라?",
+			"wh-question"
+		],
+		[
+			"system",
+			"오후 3시입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그 약속을 좀 취소시켜줄래?",
+			"request"
+		],
+		[
+			"system",
+			"취소합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그 시간에 새 일정을 등록해주겠어?",
+			"request"
+		],
+		[
+			"system",
+			"말씀하세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"내일 친구하고 영화보기 약속을 입력해라.",
+			"inform"
+		],
+		[
+			"system",
+			"등록합니다. 시간을 몇 시로 입력할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"시간은 오후 3시로 해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"입력합니다. 장소를 말씀하세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"장소는 메가박스로 입력해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"입력합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 오후 2시로 알람을 설정해주면 고맙겠어.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"엄마 일정에도 내일 약속을 취소시켜주겠어?",
+			"request"
+		],
+		[
+			"system",
+			"취소합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했다.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"281": [
+		[
+			"user",
+			"어 아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요?",
+			"opening"
+		],
+		[
+			"user",
+			"어 아름아 우리 가족식사 모임 갖기로 했거든.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 그렇군요.",
+			"affirm"
+		],
+		[
+			"user",
+			"다음달에 아빠, 엄마 생일에 저녁식사 일정 입력 좀 해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 일정을 입력합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"어 저녁식사 일정에 알람 설정해주고.",
+			"request"
+		],
+		[
+			"system",
+			"몇 시로 설정할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"음 오후 6시로 설정해주면 좋겠는데.",
+			"inform"
+		],
+		[
+			"system",
+			"다시 말씀해주세요.",
+			"request"
+		],
+		[
+			"user",
+			"오후 6시로 설정해주면 좋겠는데.",
+			"inform"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"어 설정할 때 그날 다른 스케줄 있는지 검색해보고.",
+			"yn-question"
+		],
+		[
+			"system",
+			"생일날 골프약속이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"어 그러면 골프약속을 변경해줄 수 있을까?",
+			"request"
+		],
+		[
+			"system",
+			"언제로 변경할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"이번주 주말 일정 좀 검색해줘봐.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 이번 주는 일정이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그럼 다음주 주말에는 어때?",
+			"wh-question"
+		],
+		[
+			"system",
+			"일요일이 비어 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"그럼 다음주 일요일로 변경 좀 해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 변경합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"어 고마워 아름아.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"282": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요?",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 지혜 생일 이번 달이니?",
+			"yn-question"
+		],
+		[
+			"system",
+			"네, 이번 달입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"지혜 생일이 언제지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"이번 달 22일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"생일 파티 장소하는 데가 어디니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"대학로 맥도널드입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"파티 시간이 언제지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"오후 4시에요.",
+			"inform"
+		],
+		[
+			"user",
+			"파티 전날 나한테 좀 알려줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"내일 수업이 몇 교시까지 있지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"내일은 6교시까지에요.",
+			"inform"
+		],
+		[
+			"user",
+			"준비물이 있었니?",
+			"yn-question"
+		],
+		[
+			"system",
+			"체육복을 챙겨 가세요.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침에 알람 좀 7시로 맞춰줄래?",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 잊지 말고 좀 깨워줘야 돼.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"아름아 잘자.",
+			"expressive"
+		],
+		[
+			"system",
+			"안녕히 주무세요.",
+			"expressive"
+		]
+	],
+	"283": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 일정등록 좀 해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 이번 주야.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"이마트거든?",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"중학교 동창모임이야.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"콘서트 약속이야.",
+			"inform"
+		],
+		[
+			"system",
+			"요일을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 금요일이야.",
+			"inform"
+		],
+		[
+			"system",
+			"시간을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오후 4시거든?",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침 7시에 깨워줄래?",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"284": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 이번에 시골 다녀왔니?",
+			"yn-question"
+		],
+		[
+			"system",
+			"네, 다녀오셨어요.",
+			"inform"
+		],
+		[
+			"user",
+			"요즘 시골에 언제 다녀왔니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"5월 23일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 시골에 왜 갔어?",
+			"wh-question"
+		],
+		[
+			"system",
+			"할머니 생신이었어요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 시골에 며칠동안 있었니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"5일동안 있었습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 할머니한테 최근에 전화드린 날이 언제였었니?",
+			"wh-question"
+		],
+		[
+			"system",
+			"1주일 전이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 이번 주말에 시간 되니?",
+			"yn-question"
+		],
+		[
+			"system",
+			"토요일 3시이후는 스케줄이 없어요.",
+			"inform"
+		],
+		[
+			"user",
+			"어 그럼 내가 비는 시간에 시골을 가야겠다.",
+			"inform"
+		],
+		[
+			"system",
+			"좋은 생각이에요.",
+			"affirm"
+		],
+		[
+			"user",
+			"어 아름아 엄마에 스케줄을 좀 등록 좀 해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"스케줄을 등록합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"285": [
+		[
+			"user",
+			"아름아 충전은 잘 됐어?",
+			"opening"
+		],
+		[
+			"system",
+			"네, 충전되었어요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"네, 부르셨어요.",
+			"opening"
+		],
+		[
+			"user",
+			"일정등록 좀 해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오늘 오후야.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"애경백화점이야.",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이신가요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"고등학교 동창모임이거든?",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"회사동료와 회식도 있어.",
+			"inform"
+		],
+		[
+			"system",
+			"요일을 말씀하세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"토요일.",
+			"inform"
+		],
+		[
+			"system",
+			"시간은요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 오후 5시야.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침 10시에 깨워서 알람 좀 설정해줘.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"음 아름아 수고했어 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"286": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 오늘 일정 등록 좀 해줘.",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오늘 오후에.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 선미네 집.",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"가족모임이거든.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"외식이야.",
+			"inform"
+		],
+		[
+			"system",
+			"요일을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"월요일.",
+			"inform"
+		],
+		[
+			"system",
+			"시간을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"낮 12시야.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침에 6시에 좀 깨워줄래?",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"어 아름아 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"287": [
+		[
+			"user",
+			"아름아 반가워.",
+			"opening"
+		],
+		[
+			"system",
+			"반갑습니다.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 방으로 와볼래?",
+			"request"
+		],
+		[
+			"system",
+			"부르셨어요.",
+			"inform"
+		],
+		[
+			"user",
+			"다음달에 은아생일이 언제야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 다음달 10일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"친구 생일 전날 알람을 설정해볼래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 알람을 설정합니다. 몇 시로 할까요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"알람 시간은, 오후 8시.",
+			"inform"
+		],
+		[
+			"system",
+			"설정했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"어떤 알람과 겹치는지 봐볼래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 그날 9시에 선생님께 전화하기로 한 알람이 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"은아생일 알람을 밤 10시로 바꿔줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"잘 되었는지 다시 확인해볼래?",
+			"request"
+		],
+		[
+			"system",
+			"밤 10시로 알람이 설정되었어요.",
+			"inform"
+		],
+		[
+			"user",
+			"오늘 일정을 좀 확인해볼래?",
+			"request"
+		],
+		[
+			"system",
+			"다시 말씀해주세요.",
+			"request"
+		],
+		[
+			"user",
+			"오늘 일정을 확인해볼래?",
+			"inform"
+		],
+		[
+			"system",
+			"네, 오늘은 6시에 미술학원을 가셔야해요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름이, 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"좋은 1일 되세요.",
+			"expressive"
+		]
+	],
+	"288": [
+		[
+			"user",
+			"아름이 반가워.",
+			"opening"
+		],
+		[
+			"system",
+			"저도 반갑습니다.",
+			"opening"
+		],
+		[
+			"user",
+			"아빠가 아름이 부른다.",
+			"request"
+		],
+		[
+			"system",
+			"네, 부르셨어요.",
+			"inform"
+		],
+		[
+			"user",
+			"스케줄 때문에 물어볼 게 있어서 불렀다고 하는데.",
+			"inform"
+		],
+		[
+			"system",
+			"알겠습니다. 무엇을 알려드릴까요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"이번 주말 스케줄을 확인해봐.",
+			"request"
+		],
+		[
+			"system",
+			"확인중입니다. 토요일에 골프약속이 있으세요.",
+			"inform"
+		],
+		[
+			"user",
+			"골프약속의 일정을 취소해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 취소되었어요.",
+			"inform"
+		],
+		[
+			"user",
+			"중학교 동기모임의 일정을 입력해볼래?",
+			"request"
+		],
+		[
+			"system",
+			"입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"입력이 잘 되었는지 다시 1번 확인해볼래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 입력이 완료되었어요.",
+			"inform"
+		],
+		[
+			"user",
+			"오늘의 일정을 말해봐.",
+			"wh-question"
+		],
+		[
+			"system",
+			"오늘은 저녁에 가족식사모임이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일의 일정은 어떻게 되니.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 내일은 일정이 없습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"골프약속을 내일로 변경해봐.",
+			"request"
+		],
+		[
+			"system",
+			"변경했어요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름이 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"좋은 1일 되세요.",
+			"expressive"
+		]
+	],
+	"289": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"네, 언니 안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"우리 가족들 생일 좀 알려줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"누구의 생일을 검색할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"할머니 생일이 언젠지 알려줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 이번 주 목요일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"지영이 생일이 언제지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"이번 주 토요일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"2명 다 이번 주가 생일이네.",
+			"yn-question"
+		],
+		[
+			"system",
+			"네, 그렇습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"모레 일정이 있는지 알아봐줄래?",
+			"yn-question"
+		],
+		[
+			"system",
+			"검색중입니다. 일정이 없어요.",
+			"inform"
+		],
+		[
+			"user",
+			"모레 아빠랑 같이 백화점에 가기로 해 일정을 등록시켜줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 설정했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"모레 오후에 알람을 설정해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"몇 시로 설정할까요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오후 4시로 해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"290": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요?",
+			"opening"
+		],
+		[
+			"user",
+			"내일의 일정을 검색해줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"내일은 오전에 골프약속이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 오전 6시로 알람을 설정해줘.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"알람이 맞게 설정됐는지 다시 확인해줄래?",
+			"yn-question"
+		],
+		[
+			"system",
+			"네, 확인되었어요.",
+			"inform"
+		],
+		[
+			"user",
+			"이번 주말 어떤 일정이 있는지 검색해줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"토요일 가족식사모임이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"토요일날 가족식사모임을 변경하고 싶어.",
+			"request"
+		],
+		[
+			"system",
+			"언제로 변경할까요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"다음주 토요일로 해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"그날은 일정이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그러면 일정이 없는 날이 언젠지 알아봐줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"다음주 일요일이 괜찮아요.",
+			"inform"
+		],
+		[
+			"user",
+			"다음주 일요일로 변경해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 변경합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"일정이 잘 변경됐는지 다시 확인해주고.",
+			"yn-question"
+		],
+		[
+			"system",
+			"확인되었습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"291": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"잘 잤냐고.",
+			"opening"
+		],
+		[
+			"system",
+			"다시 말씀해주세요.",
+			"request"
+		],
+		[
+			"user",
+			"잘 잤니? 좋은 아침이야.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 잘 잤습니다.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 오늘 일정 확인 좀 해줘.",
+			"request"
+		],
+		[
+			"system",
+			"언제 일정을 알려드릴까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 주간 일정 확인해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 오전과 오후 약속이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그럼 오후 약속장소 좀 알려줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"오후에 롯데백화점에서 약속이 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"어 그러면 누구하고 약속인지도 확인해줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 엄마와 한 약속입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"근데 약속 일정 변경되었거든.",
+			"inform"
+		],
+		[
+			"system",
+			"무슨 내용이 변경되었나요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 날짜가 바뀌었어.",
+			"inform"
+		],
+		[
+			"system",
+			"언제로 변경되었나요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 8월 25일로 변경되었거든.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 시간도 변경되었나요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"시간은 안 바꼈고, 같은 시간이야.",
+			"inform"
+		],
+		[
+			"system",
+			"약속장소는 변경되었나요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"약속 장소도 바뀌지 않았어. 같은 곳이야.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 일정을 변경했습니다.",
+			"affirm"
+		],
+		[
+			"user",
+			"음 잘했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"감사합니다.",
+			"expressive"
+		]
+	],
+	"292": [
+		[
+			"user",
+			"아름아 잘 잤니? 아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"네, 네, 부르셨어요.",
+			"opening"
+		],
+		[
+			"user",
+			"어 우리 아 어버이날에 가족모임 하기로 했잖아. 그거 취소해야 될 거 같애. 취소 좀 해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"어 대신에 가까운 식당에서 우리 식사하기로 했거든? 어 가까운 식당에서 식사한다고 일정 좀 입력 입력해줘.",
+			"request"
+		],
+		[
+			"system",
+			"다시 말씀해주세요.",
+			"request"
+		],
+		[
+			"user",
+			"우리 식당에서 식사하기로 한 거 일정 좀 저장해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"그 식당에서 우리 점심식사하기로 할거야.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"응 아침에 9시에 일어나게 알람 좀 설정해주고.",
+			"request"
+		],
+		[
+			"system",
+			"설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"설정 잘 됐나 다시 1번 확인해줄래?",
+			"yn-question"
+		],
+		[
+			"system",
+			"어버이날 오전 9시에 알람이 설정되었어요.",
+			"inform"
+		],
+		[
+			"user",
+			"할머니한테도 일정내용 알려드리고.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"음 선물 사야되거든. 선물 사려고 백화점 갈 건데, 백화점 언제 문 열어?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 백화점은 2째, 4째 월요일만 쉽니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그러면은 어버이날 전날에 백화점 간다고 일정 좀 저장해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠어요.",
+			"inform"
+		],
+		[
+			"user",
+			"수고했어, 아름아.",
+			"expressive"
+		],
+		[
+			"system",
+			"또 불러주세요.",
+			"expressive"
+		]
+	],
+	"293": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 일정 확인 좀 해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 언제 일정을 확인할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"이번 주 일정 좀 알려줘.",
+			"inform"
+		],
+		[
+			"system",
+			"일정을 확인합니다. 무엇을 알려드릴까요?",
+			"inform"
+		],
+		[
+			"user",
+			"오전 약속장소를 좀 알려줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 약속장소는 교보문고입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 누구와 약속있는지 좀 확인해줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"초등학교 동창분과의 약속이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"약속이 변경되었어.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 내용이 변경되었나요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"약속 날짜가 바뀌었어.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 바뀐 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"7월 18일로 변경되었어.",
+			"inform"
+		],
+		[
+			"system",
+			"시간도 변경되었나요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"아니, 시간은 같은 시간이야.",
+			"inform"
+		],
+		[
+			"system",
+			"알겠습니다. 장소는 어디세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"장소는 친구 미영이네 집이야.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 일정을 변경했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"또 불러주세요.",
+			"expressive"
+		]
+	],
+	"294": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 일정 등록 좀 해줘.",
+			"request"
+		],
+		[
+			"system",
+			"원하시는 날짜를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"주말로 해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"장소를 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"종로 영화관.",
+			"inform"
+		],
+		[
+			"system",
+			"누구와 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"가족 모임이야.",
+			"inform"
+		],
+		[
+			"system",
+			"어떤 약속이세요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"콘서트 보기로 했어.",
+			"inform"
+		],
+		[
+			"system",
+			"요일을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"수요일이야.",
+			"inform"
+		],
+		[
+			"system",
+			"시간을 말씀해주세요.",
+			"wh-question"
+		],
+		[
+			"user",
+			"오후 2시야.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 일정을 입력했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 아침 9시에 깨워줘.",
+			"request"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 정말 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"고마워요.",
+			"expressive"
+		]
+	],
+	"295": [
+		[
+			"user",
+			"아름아.",
+			"opening"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"opening"
+		],
+		[
+			"user",
+			"어 시험 공부하는데 지금 너무 졸립다.",
+			"inform"
+		],
+		[
+			"system",
+			"제가 어떻게 도와드릴까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 나 잠깐 자고 일어날게.",
+			"inform"
+		],
+		[
+			"system",
+			"알겠어요.",
+			"affirm"
+		],
+		[
+			"user",
+			"알람 좀 설정해줘.",
+			"request"
+		],
+		[
+			"system",
+			"어떻게 설정할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 지금부터 1시간 뒤로 좀 해줄래?",
+			"inform"
+		],
+		[
+			"system",
+			"알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 시험 과목이 뭐였지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네. 세계사, 한문, 영어에요.",
+			"inform"
+		],
+		[
+			"user",
+			"시험 시간 좀 가르쳐줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"9시- 12시까지에요.",
+			"inform"
+		],
+		[
+			"user",
+			"어 공부할 게 너무 많다. 알람 좀 알람 시간 좀 바꾸자.",
+			"request"
+		],
+		[
+			"system",
+			"어떻게 변경할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"어 알람 다시 30분 뒤로 해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"30분 뒤로 변경합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"어 아름아 진짜 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"296": [
+		[
+			"user",
+			"아름아 안방으로 와봐.",
+			"request"
+		],
+		[
+			"system",
+			"네, 엄마 저 여기 왔어요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"엄마도 안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 연수 떠나는 날짜 좀 검색해줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 검색합니다. 7월 5일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"몇 시까지 도착해야 하는지 검색해줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"오전 10시까지에요.",
+			"inform"
+		],
+		[
+			"user",
+			"연수 기간을 검색해줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"검색중입니다. 기간은 3일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"연수 날짜에 맞춰 7시로 알람 설정 좀 해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 설정되었습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일의 일정 좀 검색해줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"검색중입니다. 내일은 거래처 직원과 점심약속이 있으세요.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 일정을 다음주 토요일로 변경해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 변경합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"다음주 토요일 오후 1시로 알람 설정해줘.",
+			"request"
+		],
+		[
+			"system",
+			"오후 1시 말씀이세요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"다음주 토요일 오후 1시로 알람 설정해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 설정되었습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"297": [
+		[
+			"user",
+			"아름아 잘 있었어?",
+			"opening"
+		],
+		[
+			"system",
+			"네, 잘 있었어요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 안방으로 와봐.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"아름아 백화점에 가기로 한 날이 언제였지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 이번 주 토요일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"친구와 몇 시에 약속이 있어?",
+			"wh-question"
+		],
+		[
+			"system",
+			"확인중입니다. 오후 3시입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"만나는 장소는 어디야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 명동의 롯데백화점입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"오늘 일정이 비어있는 시간을 찾아봐줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"잠시만요. 오후 5시- 7시까지입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그 시간에 빨래를 해야겠어.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 알람을 설정할까요?",
+			"yn-question"
+		],
+		[
+			"user",
+			"어 알람은 안해도 돼.",
+			"inform"
+		],
+		[
+			"system",
+			"알겠습니다.",
+			"affirm"
+		],
+		[
+			"user",
+			"가족이 모두 외출하는 시간이 언제야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 오전 10시입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"지영이가 학원 가는 시간이 몇 시지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"잠시만요. 오후 3시에요.",
+			"inform"
+		],
+		[
+			"user",
+			"지영이가 나가기 1시간 전에 알람을 맞춰줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"아름아 고마워.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"298": [
+		[
+			"user",
+			"아름아 안방으로 와.",
+			"request"
+		],
+		[
+			"system",
+			"네, 엄마 저 왔어요.",
+			"inform"
+		],
+		[
+			"user",
+			"아름이 잘 있었어?",
+			"opening"
+		],
+		[
+			"system",
+			"네, 엄마도 안녕하셨어요?",
+			"opening"
+		],
+		[
+			"user",
+			"할머니 제사가 언제야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 할머니 제사는 이번 주 토요일입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그날 스케줄을 좀 확인해줄래?",
+			"wh-question"
+		],
+		[
+			"system",
+			"다시 1번 말씀해주세요.",
+			"request"
+		],
+		[
+			"user",
+			"그날 스케줄 좀 확인해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"누구의 스케줄을 확인할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"엄마 스케줄 좀 확인해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 알겠습니다. 그날 엄마는 동창모임이 있어요.",
+			"ack"
+		],
+		[
+			"user",
+			"동창모임 스케줄을 2주 뒤로 연기해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 연기합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"내일 오전 11시에 전화할 거니까 10시에 알람을 맞춰줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 오전 10시로 알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"일정에 할머니 제사를 새로 등록해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 등록했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그 전날 시장가는 일정도 등록해줘.",
+			"request"
+		],
+		[
+			"system",
+			"등록되었습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아빠의 일정에도 등록해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"아름아 안녕.",
+			"expressive"
+		],
+		[
+			"system",
+			"네.",
+			"expressive"
+		]
+	],
+	"299": [
+		[
+			"user",
+			"아름아 안녕?",
+			"opening"
+		],
+		[
+			"system",
+			"안녕하세요.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 이리로 와봐.",
+			"request"
+		],
+		[
+			"system",
+			"부르셨어요?",
+			"inform"
+		],
+		[
+			"user",
+			"9월달에 내친구 생일이 있는 있는지 확인해줄래?",
+			"yn-question"
+		],
+		[
+			"system",
+			"다시 말씀해주세요.",
+			"request"
+		],
+		[
+			"user",
+			"9월달에 내친구 생일이 있는지 알아봐줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 잠시만요. 생일이 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"정확한 날짜가 어떻게 되는데?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 친구의 날짜는 9월 5일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"친구한테 축하 메시지를 보낼 알람을 설정해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 몇 시로 설정할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"알람 시간은 생일날 아침 8시로 해줘.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 설정했습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"등산 모임이 있는 날은 언제지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"잠시만요. 7월 25일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"장소는 어디야?",
+			"wh-question"
+		],
+		[
+			"system",
+			"북한산이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"시간은 어떻게 되지?",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 오전 10시입니다.",
+			"inform"
+		],
+		[
+			"user",
+			"그날 엄마의 일정을 비워줄래?",
+			"request"
+		],
+		[
+			"system",
+			"네, 알겠습니다.",
+			"ack"
+		],
+		[
+			"user",
+			"아름아 잘했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	],
+	"300": [
+		[
+			"user",
+			"아름아 반가워.",
+			"opening"
+		],
+		[
+			"system",
+			"반갑습니다.",
+			"opening"
+		],
+		[
+			"user",
+			"아름아 이리 좀 와.",
+			"request"
+		],
+		[
+			"system",
+			"어디로 갈까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"아름아 거실로 좀 올래?",
+			"inform"
+		],
+		[
+			"system",
+			"네, 부르셨어요.",
+			"inform"
+		],
+		[
+			"user",
+			"다음달에 가족 행사 할거거든.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 어떻게 할까요?",
+			"wh-question"
+		],
+		[
+			"user",
+			"우철이 다음달 일요일 일정 좀 알려줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 우철오빠는 1째주 친구 생일파티가 있습니다.",
+			"inform"
+		],
+		[
+			"user",
+			"지영이 다음달 일요일 일정도 알려줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"네, 지영언니는 2째주 학교행사, 4째주 친구와 영화보기 약속이 있어요.",
+			"inform"
+		],
+		[
+			"user",
+			"2 다 비는 날이 언젠지 알려줘.",
+			"wh-question"
+		],
+		[
+			"system",
+			"3째주 일요일이에요.",
+			"inform"
+		],
+		[
+			"user",
+			"그럼 3째주 일요일 행사를 해야겠거든.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 그날은 약속이 있으세요.",
+			"inform"
+		],
+		[
+			"user",
+			"내가 약속을 미룰 수 있어.",
+			"inform"
+		],
+		[
+			"system",
+			"그렇군요. 알겠습니다.",
+			"affirm"
+		],
+		[
+			"user",
+			"다음달 3째주 일요일에 가족 행사를 할게.",
+			"inform"
+		],
+		[
+			"system",
+			"네, 알겠어요.",
+			"affirm"
+		],
+		[
+			"user",
+			"엄마 일정 좀 등록해줄래?",
+			"request"
+		],
+		[
+			"system",
+			"등록합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"3째주 일요일 오전 9시에 알람을 설정해줘.",
+			"request"
+		],
+		[
+			"system",
+			"네, 알람을 설정합니다.",
+			"inform"
+		],
+		[
+			"user",
+			"아름아 수고했어.",
+			"expressive"
+		],
+		[
+			"system",
+			"아니에요.",
+			"expressive"
+		]
+	]
+}
