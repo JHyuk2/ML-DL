@@ -120,7 +120,9 @@ class NLP_util:
         print("  Num Epochs = {}".format(num_train_epochs))
         print("  Train Batch size = {}".format(train_batch_size))
         print("  Device = ", self.device)
-
+        
+        print('hello')
+        
         model.to(self.device)
         model.train(True)
         model.zero_grad()
